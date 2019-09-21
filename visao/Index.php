@@ -12,7 +12,7 @@
 				<?php include("../layout/menu.html") ?>
 
 				<div class="col-md-9">
-					<h3>Bem vindo ao sistema de cadastro de alunos e professores</h3>
+					<h3>Bem vindo ao sistema:</h3><br> <h3> Cadastre alunos e professores</h3>
 				</div>
 			</div>
 			<?php include("../layout/rodape.html"); ?>
